@@ -2,8 +2,8 @@ title: From Now On
 email: qbration21@gmail.com
 description: Technology, Life, and everything in between.
 author: generation21
-baseurl: "https://generation21.github.io/fromnowon-blog"
-url: "https://startbootstrap.github.io"
+baseurl: "/fromnowon-blog"
+url: "https://generation21.github.io"
 
 # Social Profiles
 twitter_username:
